@@ -1,7 +1,7 @@
 # MR-TQ
 
 ## Accessing Model Files
-The model weights, LORA files, and associated code can be found in this repository. These resources provide sufficient information to understand our methodology and implement similar approaches with different datasets.
+The associated code can be found in this repository. These resources provide sufficient information to understand our methodology and implement similar approaches with different datasets.
 
 ## Data Availability Statement
 To ensure reproducibility of our methods, we provide:
